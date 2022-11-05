@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/phillippchu/background-generator/issues"
   },
-  "homepage": "https://github.com/phillippchu/background-generator#readme"
+  "homepage": "https://github.com/phillippchu/background-generator#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
 }
